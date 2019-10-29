@@ -20,7 +20,7 @@
     "mysql": "^2.16.0",
     "mysql2": "^1.6.5",
     "reflect-metadata": "^0.1.13",
-    "sequelize": "^5.3.1",
+    "sequelize": "^5.15.1",
     "sequelize-typescript": "^1.0.0-alpha.9",
     "tsconfig-paths": "3.7.0",
     "type-graphql": "^0.17.1"
